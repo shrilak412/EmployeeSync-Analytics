@@ -41,4 +41,6 @@ EmployeeSync-Analytics/
 └── requirements.txt
 
 ![spark](https://github.com/user-attachments/assets/75abe345-46da-4a03-b852-f75da3228e99)
+![Screenshot 2025-03-27 160221](https://github.com/user-attachments/assets/35101e95-5827-4979-98f2-7abb91774921)
+
 
