@@ -1,0 +1,9 @@
+azure-storage-blob==12.19.0
+azure-identity==1.15.0
+pyspark==3.5.1
+pandas==2.2.1
+scikit-learn==1.4.1
+matplotlib==3.8.3
+azureml-core==1.56.0
+python-dotenv==1.0.1
+
